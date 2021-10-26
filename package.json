@@ -13,5 +13,8 @@
   "devDependencies": {
     "vuepress": "^1.5.0",
     "vuepress-theme-modern-blog": "^2.12.1"
+  },
+  "dependencies": {
+    "async-validator": "^4.0.7"
   }
 }
