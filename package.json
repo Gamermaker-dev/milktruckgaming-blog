@@ -1,0 +1,16 @@
+{
+  "name": "milktruckgaming-blog",
+  "version": "1.0.0",
+  "description": "Blog part of MilkTruckGaming website",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "MilkTruckMark",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.0",
+    "vuepress-theme-modern-blog": "^2.12.1"
+  }
+}
