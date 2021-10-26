@@ -1,1 +1,2 @@
-# Hello VuePress
+# Fresh Content. All the Time.
+This blog is a work in progress...
