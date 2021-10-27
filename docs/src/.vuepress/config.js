@@ -36,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     sitemap: true,
     hostname: "https://blog.milktruckgaming.com/",
-    heroImage: "/images/hero.png",
+    heroImage: "./images/hero.png",
     googleAnalytics: "G-F2VHJMXFFS",
     nav: [
       {
@@ -54,8 +54,8 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
+            ['/', 'Home'],
+            ['/using-vue', 'Using Vue']
           ]
         }
       ],
