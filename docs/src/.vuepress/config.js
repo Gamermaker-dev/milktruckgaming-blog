@@ -36,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     sitemap: true,
     hostname: "https://blog.milktruckgaming.com/",
-    heroImage: "./images/hero.png",
+    heroImage: "https://blog.milktruckgaming.com/images/hero.png",
     googleAnalytics: "G-F2VHJMXFFS",
     nav: [
       {
@@ -64,11 +64,53 @@ module.exports = {
     socialShareNetworks: ["facebook", "twitter", "instagram"]
   },
 
+  footer: {
+    contact: [
+      {
+        type: 'github',
+        link: 'https://github.com/Gamermaker-dev',
+      },
+      {
+        type: 'twitch',
+        link: 'https://twitch.tv/MilkTruckGaming'
+      }
+    ],
+    copyright: [
+      {
+        text: 'Privacy Policy',
+        link: 'https://policies.google.com/privacy?hl=en-US',
+      },
+      {
+        text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+        link: '',
+      },
+    ],
+  },
+
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
+    'crisp',
+    'seo',
+    'smooth-scroll',
+    'reading-progress',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    'social-share',
+    '@vuepress/google-analytics',
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
+    [
+      'sitemap',
+      {
+        hostname: 'https://blog.milktruckgaming.com',
+      }
+    ]
   ]
 }
