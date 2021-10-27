@@ -9,6 +9,6 @@ cd src/.vuepress/dist
 echo 'blog.milktruckgaming.com' > CNAME
 git init
 git add -A
-git commit -m 'deploy'
+git commit
 git push -f git@github.com:Gamermaker-dev/milktruckgaming-blog.git master:gh-pages
 cd -
