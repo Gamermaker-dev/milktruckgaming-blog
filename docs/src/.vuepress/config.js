@@ -37,6 +37,7 @@ module.exports = {
     sitemap: true,
     hostname: "https://blog.milktruckgaming.com/",
     heroImage: "/images/hero.png",
+    googleAnalytics: "G-F2VHJMXFFS",
     nav: [
       {
         text: 'Guide',

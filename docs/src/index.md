@@ -4,6 +4,7 @@ heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: A blog for my website.
 actionText: Quick Start →
 actionLink: /guide/
+image: /images/hero.png
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
