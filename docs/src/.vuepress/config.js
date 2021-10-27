@@ -34,6 +34,9 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    sitemap: true,
+    hostname: "https://blog.milktruckgaming.com/",
+    heroImage: "/images/hero.png",
     nav: [
       {
         text: 'Guide',
@@ -55,7 +58,9 @@ module.exports = {
           ]
         }
       ],
-    }
+    },
+    socialShare: true,
+    socialShareNetworks: ["facebook", "twitter", "instagram"]
   },
 
   /**
