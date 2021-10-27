@@ -36,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     sitemap: true,
     hostname: "https://blog.milktruckgaming.com/",
-    heroImage: "/public/images/hero.pngpublic",
+    heroImage: "/images/hero.pngpublic",
     googleAnalytics: "G-F2VHJMXFFS",
     nav: [
       {
