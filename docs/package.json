@@ -1,0 +1,23 @@
+{
+  "name": "milktruck-blog",
+  "version": "0.0.1",
+  "description": "A blog for my website.",
+  "main": "index.js",
+  "authors": {
+    "name": "MilkTruckMark",
+    "email": "gamermaker.dev@gmail.com"
+  },
+  "repository": "https://github.com/Gamermaker-dev/milktruckgaming-blog/milktruck-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-modern-blog": "^2.12.1"
+  },
+  "dependencies": {
+    "async-validator": "^4.0.7"
+  }
+}
