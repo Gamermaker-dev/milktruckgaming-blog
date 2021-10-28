@@ -21,8 +21,6 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
-  theme: 'modern-blog',
-
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -38,53 +36,63 @@ module.exports = {
     hostname: "https://blog.milktruckgaming.com/",
     heroImage: "/images/hero.png",
     googleAnalytics: "G-F2VHJMXFFS",
+    summary: true,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Home',
+        link: '/',
+        icon: 'el-icon-house'
       },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            ['/', 'Home'],
-            ['/using-vue', 'Using Vue']
-          ]
-        }
-      ],
-    },
-    socialShare: true,
-    socialShareNetworks: ["facebook", "twitter", "instagram"]
-  },
-
-  footer: {
-    contact: [
-      {
-        type: 'github',
-        link: 'https://github.com/Gamermaker-dev',
+        text: 'Video Games',
+        link: '/games/',
+        icon: 'el-icon-folder'
       },
       {
-        type: 'twitch',
-        link: 'https://twitch.tv/MilkTruckGaming'
+        text: 'Anime',
+        link: '/anime/',
+        icon: 'el-icon-folder'
+      },
+      {
+        text: 'Devotions',
+        link: '/devotions/',
+        icon: 'el-icon-folder'
+      },
+      {
+        text: 'Projects',
+        link: '/projects/',
+        icon: 'el-icon-folder'
       }
     ],
-    copyright: [
-      {
-        text: 'Privacy Policy',
-        link: 'https://policies.google.com/privacy?hl=en-US',
-      },
-      {
-        text: 'MIT Licensed | Copyright © 2018-present Vue.js',
-        link: '',
-      },
-    ],
+    about: {
+      fullName: 'MilkTruckMark',
+      bio: 'Just a guy who loves video games, anime, and Jesus!',
+      image: '/images/sprite_avatar.PNG'
+    },
+    socialShare: true,
+    socialShareNetworks: ["facebook", "twitter"],
+    footer: {
+      contact: [
+        {
+          type: 'twitch',
+          link: 'https://twitch.tv/MilkTruckGaming'
+        },
+        {
+          type: 'github',
+          link: 'https://github.com/Gamermaker-dev',
+        }
+      ],
+      copyright: [
+        {
+          text: 'Privacy Policy',
+          link: 'https://policies.google.com/privacy?hl=en-US',
+        },
+        {
+          text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+          link: '',
+        },
+      ],
+    }
   },
 
   /**
@@ -97,7 +105,6 @@ module.exports = {
     'reading-progress',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    'social-share',
     '@vuepress/google-analytics',
     [
       '@vuepress/pwa',
