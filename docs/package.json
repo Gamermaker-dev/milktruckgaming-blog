@@ -9,7 +9,7 @@
   },
   "repository": "https://github.com/Gamermaker-dev/milktruckgaming-blog/milktruck-blog",
   "scripts": {
-    "dev": "vuepress dev src",
+    "dev": "vuepress dev src --port 4000",
     "build": "vuepress build src",
     "deploy": "sh deploy.sh"
   },
