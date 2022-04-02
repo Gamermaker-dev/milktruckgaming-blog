@@ -12,7 +12,9 @@ featured: true
 ---
 # A Genesis in More Ways Than One
 
-[![Green Hill Zone from Sonic Mania. Courtesy of Youtube Channel "Blue Blur"](https://img.youtube.com/vi/CY1hNVn80uo/0.jpg)](https://youtu.be/CY1hNVn80uo)
+| [![GREEN_HILL_zone_ost.jpg](https://img.youtube.com/vi/CY1hNVn80uo/0.jpg)](https://youtu.be/CY1hNVn80uo) |
+| :--:|
+|*Green Hill Zone from Sonic Mania. Courtesy of Youtube Channel "Blue Blur"*|
 
 Have you ever taken a moment to consider your "first video game"? It can be an odd topic. For some, their first video game holds no importance to them; it was either a fun distraction or a horrible mess. They don't take stock in their first video game because they never really continued gaming, or another game later on set their love for gaming ablaze. However, for myself, my first video game and the game that made me fall in love with gaming managed to be one in the same. 
 
@@ -26,7 +28,9 @@ Green Hill Zone represents everything great about Sonic. The vibrant, colorful l
 
 You see, Sonic's zones go through a theme. Green Hill represents the fun-filled natural world. The only machinary here are Robotnik's (or Eggman's if you played the original Japanese version) badnicks. Yet, as you progress, the backgrounds and settings become more and more industrialized. Now, maybe the game developers were making a statement. "Nature is better than industrialization." After all, ten seconds into Scrap Brain Zone...
 
-[![Scrap Brain Zone Remix. Courtesy of "Official VGM"](https://img.youtube.com/vi/qe8BG59t56A/0.jpg)](https://youtu.be/qe8BG59t56A)
+| [![scrap_brain_zone.jpg](https://img.youtube.com/vi/qe8BG59t56A/0.jpg)](https://youtu.be/qe8BG59t56A) |
+| :--: |
+|*Scrap Brain Zone Remix. Courtesy of "Official VGM"*|
 
 ...and you'll instantly be missing those glorious green hills.
 
@@ -38,7 +42,9 @@ After Green Hill triumphantly captures the feeling of being the "fastest thing a
 
 # Memories of a Blue Wind
 
-[![Green Hill Zone (Modern) from *Sonic Generations*. Courtesy of "DeoxysPrime".](https://img.youtube.com/vi/sAFiSr7iSEc/0.jpg)](https://youtu.be/sAFiSr7iSEc)
+| [![green_hill_zone_modern.jpg](https://img.youtube.com/vi/sAFiSr7iSEc/0.jpg)](https://youtu.be/sAFiSr7iSEc) |
+|:--:|
+|*Green Hill Zone (Modern) from *Sonic Generations*. Courtesy of "DeoxysPrime".*|
 
 As a kid, sports or physical activities weren't really my forte. In fact, I was pretty physically weak. I tried to get stronger, but none of my efforts ever seemed to manifest. Races, workouts, sports...no matter what it was, I always came in or close to last place. Yet, when I turned on that game console and picked up a controller...I was suddenly on an even playing field. Now, I wasn't *that* good at games, and one cousin in particular reminded me of this everytime he visited. He was like the King of Video Games in my eyes, and I was the starry-eyed young protagonist who needed to hone my skills to compete and eventually surpass him.
 
