@@ -1,5 +1,5 @@
 ---
-date: '2022-04-01'
+date: '2022-04-02'
 slug: vuepress-modern-blog-theme
 tags:
 - '30 Days of Gaming'
