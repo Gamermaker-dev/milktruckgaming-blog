@@ -7,7 +7,7 @@ tags:
 - "Ripto's Rage"
 - childhood
 title: "Day 4: Spyro 2: Ripto's Rage"
-description: Anyone may claim that he will act in the direst times, yet only a brave man acts in times great and small.
+description: The game that made every kid go, "Wait, who's Ripto?"
 author: MilkTruckMark
 featured: true
 ---

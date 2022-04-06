@@ -6,7 +6,7 @@ tags:
 - 'Jak and Daxter'
 - childhood
 title: 'Day 5: Jak and Daxter'
-description: Anyone may claim that he will act in the direst times, yet only a brave man acts in times great and small.
+description: Just a precursor of things to come.
 author: MilkTruckMark
 featured: true
 ---
