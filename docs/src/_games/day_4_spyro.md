@@ -4,7 +4,7 @@ slug: vuepress-modern-blog-theme
 tags:
 - '30 Days of Gaming'
 - 'Spyro the Dragon'
-- 'Ripto's Rage'
+- "Ripto's Rage"
 - childhood
 title: "Day 4: Spyro 2: Ripto's Rage"
 description: Anyone may claim that he will act in the direst times, yet only a brave man acts in times great and small.
