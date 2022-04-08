@@ -3,10 +3,12 @@ date: '2022-04-05'
 slug: vuepress-modern-blog-theme
 tags:
 - '30 Days of Gaming'
-- 'Jak and Daxter'
+- 'Sonic the Hedgehog'
+- 'Shadow the Hedgehog'
+- 'Sonic Adventure 2: Battle'
 - childhood
-title: 'Day 5: Jak and Daxter'
-description: Just a precursor of things to come.
+title: 'Day 6: Sonic Adventure 2: Battle'
+description: Live and Learn.
 author: MilkTruckMark
 featured: true
 ---
