@@ -24,4 +24,21 @@ The aforementioned opening cutscene sets up the tone that this will be a dark ga
 
 From there, you venture out with newly befriended fairy Navi to talk and eventually save the Great Deku Tree, guardian of the forest where you live. The opening segment does a great job teaching new players all the mechanics. You even go through a simple but fun dungeon via the inside of the Deku Tree. It is your first act of heroism, and it cements to the Deku Tree that you are indeed the one prophecized of that would save the kingdom. From there, you venture to Hyrule and meet with titular Princess Zelda.
 
-It's at this point the player, and likely Link, begin to notice that Zelda, Impa, and Ganondorf are all the figures from the earlier dream. After a short journey around Hyrule, helping the Gorons and Zoras, you acquire the treasures needed to enter the Temple of Time, home to the only weapon that stop Ganondorf. But upon returning to Hyrule...your dream comes to life. Zelda flees Hyrule as Ganondorf begins his takeover of the kingdom. Before going into hiding, Zelda tosses you the final piece needed to enter the Temple of Time: The Ocarina 
+It's at this point the player, and likely Link, begin to notice that Zelda, Impa, and Ganondorf are all the figures from the earlier dream. After a short journey around Hyrule, helping the Gorons and Zoras, you acquire the treasures needed to enter the Temple of Time, home to the only weapon that stop Ganondorf. But upon returning to Hyrule...your dream comes to life. Zelda flees Hyrule as Ganondorf begins his takeover of the kingdom. Before going into hiding, Zelda tosses you the final piece needed to enter the Temple of Time: the titular Ocarina of Time. One temple break-in, sword pulling, and seven-year-gaps later, and your adventure truly begins...
+
+## Playing with Time
+
+It was around this point that Zelda games really began to center around mystical themes and use them to enhance the story-telling. While time traveling has become a cliche at this point and its use is often met with heavy caution, Zelda's time-traveling mechanic was a glorious triumph! And the way they achieved this is so simple that it really demonstrates how much other writers overthink proper time travel.
+
+In Ocarina of Time, once you are seven years into the future, you see two immediate things. Your absence has had *serious* ramifications to the world. Hyrule town is in shambles. Ganondorf's evil influence is seen all throughout the world. The message is clear; *you* were not here, and evil prospered.
+
+However...
+
+Buried in each area you revisit as adult Link, there are seeds of hope you planted through your actions as a child that flourish when you revisit. Because you were such a good friend to Saria and because you helped the Deku Tree, she awakens as a Sage and a new Deku Tree is allowed to bloom. Because you helped the Gorons as a child, Darunia, chief of the Gorons, *literally* names his child after you which helps him trust you when you revisit. Link the Goron grants you a Goron tunic and tells you where the other Gorons are imprisoned. Because you helped Zora Princess Ruto as a child, she trusts you to help again when you revisit. Your actions as a child directly influence and aid your adventure as an adult. Evil did prosper, but the good you performed remained.
+
+
+## Musical Masterpiece
+
+The last thing I want to gush about is this game's soundtrack. My gosh, if you haven't been sold on Zelda's music yet, give this soundtrack a listen to. From the chipper, hopeful tunes of Kokori Forest to what I can only describe as "adventure in musical form" when you enter Hyrule Field, there is a song for every mood, every moment, every atmosphere, and all of them are on point.
+
+There's a lot that can be said for this game; heck, there's arguably even more that can be said for its sequel. I wrote off the Zelda franchise for a long time because I just didn't get it. But when I finally gave *Ocarina of Time* a fair chance, I was blown away by the magnificent journey it laid out for me. Yes, other games have surpassed this game. Yes, other Zelda games have released that are better than it. But...if you can't pay respect to originated many modern mechanics in gaming, then what can you pay respect to?
